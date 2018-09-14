@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_8_1\bin\Debug\If_else_8_1.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_8_1\bin\Debug\If_else_8_1.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_8_1\bin\Debug\If_else_8_1.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_8_1\obj\Debug\If_else_8_1.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_8_1\obj\Debug\If_else_8_1.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_8_1\obj\Debug\If_else_8_1.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_8_1\obj\Debug\If_else_8_1.pdb

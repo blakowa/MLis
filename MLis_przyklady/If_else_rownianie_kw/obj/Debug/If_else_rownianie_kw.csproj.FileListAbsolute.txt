@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_rownianie_kw\bin\Debug\If_else_rownianie_kw.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_rownianie_kw\bin\Debug\If_else_rownianie_kw.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_rownianie_kw\bin\Debug\If_else_rownianie_kw.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_rownianie_kw\obj\Debug\If_else_rownianie_kw.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_rownianie_kw\obj\Debug\If_else_rownianie_kw.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_rownianie_kw\obj\Debug\If_else_rownianie_kw.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\If_else_rownianie_kw\obj\Debug\If_else_rownianie_kw.pdb

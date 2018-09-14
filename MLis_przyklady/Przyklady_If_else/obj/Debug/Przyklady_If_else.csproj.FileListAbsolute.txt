@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklady_If_else\obj\Debug\Przyklady_If_else.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklady_If_else\obj\Debug\Przyklady_If_else.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklady_If_else\bin\Debug\Przyklady_If_else.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklady_If_else\bin\Debug\Przyklady_If_else.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklady_If_else\bin\Debug\Przyklady_If_else.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklady_If_else\obj\Debug\Przyklady_If_else.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklady_If_else\obj\Debug\Przyklady_If_else.pdb

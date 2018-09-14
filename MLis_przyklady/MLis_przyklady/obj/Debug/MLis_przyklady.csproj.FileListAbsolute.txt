@@ -1,0 +1,8 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\MLis_przyklady\bin\Debug\MLis_przyklady.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\MLis_przyklady\bin\Debug\MLis_przyklady.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\MLis_przyklady\bin\Debug\MLis_przyklady.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\MLis_przyklady\obj\Debug\MLis_przyklady.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\MLis_przyklady\obj\Debug\MLis_przyklady.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\MLis_przyklady\obj\Debug\MLis_przyklady.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\MLis_przyklady\bin\Debug\Program.xml
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\MLis_przyklady\obj\Debug\MLis_przyklady.csprojAssemblyReference.cache
