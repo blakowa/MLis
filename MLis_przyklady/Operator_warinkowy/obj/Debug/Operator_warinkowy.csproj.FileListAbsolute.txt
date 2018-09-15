@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Operator_warinkowy\bin\Debug\Operator_warinkowy.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Operator_warinkowy\bin\Debug\Operator_warinkowy.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Operator_warinkowy\bin\Debug\Operator_warinkowy.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Operator_warinkowy\obj\Debug\Operator_warinkowy.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Operator_warinkowy\obj\Debug\Operator_warinkowy.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Operator_warinkowy\obj\Debug\Operator_warinkowy.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Operator_warinkowy\obj\Debug\Operator_warinkowy.pdb

@@ -1,0 +1,6 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_2\bin\Debug\Switch_9_2.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_2\bin\Debug\Switch_9_2.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_2\bin\Debug\Switch_9_2.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_2\obj\Debug\Switch_9_2.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_2\obj\Debug\Switch_9_2.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_2\obj\Debug\Switch_9_2.pdb
