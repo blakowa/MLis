@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Swtich_exampels\bin\Debug\Swtich_exampels.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Swtich_exampels\bin\Debug\Swtich_exampels.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Swtich_exampels\bin\Debug\Swtich_exampels.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Swtich_exampels\obj\Debug\Swtich_exampels.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Swtich_exampels\obj\Debug\Swtich_exampels.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Swtich_exampels\obj\Debug\Swtich_exampels.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Swtich_exampels\obj\Debug\Swtich_exampels.pdb
