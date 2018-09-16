@@ -26,7 +26,7 @@ namespace Perle_example_2._28
             }
 
             int k = 0;
-            for (; k++ < 10; )
+            for (; k++ < 10; ) //Tu najpierw sprwdza czy k jest mniejsze od 10 a potem dopiero dodaje do k +1.
             {
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine("[k = {0}] Petle w C#", k);
