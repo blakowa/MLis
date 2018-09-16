@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petle_przyklad_2.27\bin\Debug\Petle_przyklad_2.27.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petle_przyklad_2.27\bin\Debug\Petle_przyklad_2.27.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petle_przyklad_2.27\bin\Debug\Petle_przyklad_2.27.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petle_przyklad_2.27\obj\Debug\Petle_przyklad_2.27.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petle_przyklad_2.27\obj\Debug\Petle_przyklad_2.27.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petle_przyklad_2.27\obj\Debug\Petle_przyklad_2.27.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petle_przyklad_2.27\obj\Debug\Petle_przyklad_2.27.pdb

@@ -4,3 +4,4 @@ C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_5\bin\Debug\Switch_9_5.
 C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_5\bin\Debug\Switch_9_5.pdb
 C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_5\obj\Debug\Switch_9_5.exe
 C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_5\obj\Debug\Switch_9_5.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Switch_9_5\obj\Debug\Switch_9_5.csprojAssemblyReference.cache
