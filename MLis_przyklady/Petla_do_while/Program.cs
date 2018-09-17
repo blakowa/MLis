@@ -27,6 +27,16 @@ namespace Petla_do_while
                 j++;
             }
             while (j  < 10);
+            //Petla wykona sie raz dla falszywego warunku.
+
+            int k = 0;
+
+            do
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("[k = {0}] Petla wykona sie raz pomimo nie spelnienia warunku k < 0", k);
+            }
+            while (k < 0);
         }
     }
     

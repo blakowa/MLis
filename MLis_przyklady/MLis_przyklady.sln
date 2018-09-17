@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla_while", "Petla_while\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla_do_while", "Petla_do_while\Petla_do_while.csproj", "{84EF721E-878E-4479-A9BC-E88B5CBF8656}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Przyklad_petli_foreach", "Przyklad_petli_foreach\Przyklad_petli_foreach.csproj", "{C99244DB-7B09-4C52-9C3A-052D5F46C3AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{84EF721E-878E-4479-A9BC-E88B5CBF8656}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84EF721E-878E-4479-A9BC-E88B5CBF8656}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84EF721E-878E-4479-A9BC-E88B5CBF8656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99244DB-7B09-4C52-9C3A-052D5F46C3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99244DB-7B09-4C52-9C3A-052D5F46C3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99244DB-7B09-4C52-9C3A-052D5F46C3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99244DB-7B09-4C52-9C3A-052D5F46C3AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

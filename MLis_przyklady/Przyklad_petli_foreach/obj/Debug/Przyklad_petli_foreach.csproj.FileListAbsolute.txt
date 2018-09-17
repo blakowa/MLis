@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklad_petli_foreach\bin\Debug\Przyklad_petli_foreach.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklad_petli_foreach\bin\Debug\Przyklad_petli_foreach.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklad_petli_foreach\bin\Debug\Przyklad_petli_foreach.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklad_petli_foreach\obj\Debug\Przyklad_petli_foreach.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklad_petli_foreach\obj\Debug\Przyklad_petli_foreach.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklad_petli_foreach\obj\Debug\Przyklad_petli_foreach.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Przyklad_petli_foreach\obj\Debug\Przyklad_petli_foreach.pdb
