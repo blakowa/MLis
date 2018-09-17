@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petle_przyklad_2.27", "Petl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perle_example_2.28", "Perle_example_2.28\Perle_example_2.28.csproj", "{418328FB-88B8-46E8-AB93-3D3FCB4445B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla_while", "Petla_while\Petla_while.csproj", "{955263BB-5F92-4554-BCE1-D466163EB2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petla_do_while", "Petla_do_while\Petla_do_while.csproj", "{84EF721E-878E-4479-A9BC-E88B5CBF8656}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{418328FB-88B8-46E8-AB93-3D3FCB4445B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{418328FB-88B8-46E8-AB93-3D3FCB4445B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{418328FB-88B8-46E8-AB93-3D3FCB4445B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955263BB-5F92-4554-BCE1-D466163EB2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955263BB-5F92-4554-BCE1-D466163EB2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955263BB-5F92-4554-BCE1-D466163EB2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955263BB-5F92-4554-BCE1-D466163EB2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EF721E-878E-4479-A9BC-E88B5CBF8656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EF721E-878E-4479-A9BC-E88B5CBF8656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EF721E-878E-4479-A9BC-E88B5CBF8656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EF721E-878E-4479-A9BC-E88B5CBF8656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

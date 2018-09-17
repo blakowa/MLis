@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petla_do_while\bin\Debug\Petla_do_while.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petla_do_while\bin\Debug\Petla_do_while.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petla_do_while\bin\Debug\Petla_do_while.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petla_do_while\obj\Debug\Petla_do_while.csprojAssemblyReference.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petla_do_while\obj\Debug\Petla_do_while.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petla_do_while\obj\Debug\Petla_do_while.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\Petla_do_while\obj\Debug\Petla_do_while.pdb
