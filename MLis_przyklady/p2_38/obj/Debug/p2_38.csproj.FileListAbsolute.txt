@@ -1,0 +1,7 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\p2_38\bin\Debug\p2_38.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\p2_38\bin\Debug\p2_38.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\p2_38\bin\Debug\p2_38.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\p2_38\obj\Debug\p2_38.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\p2_38\obj\Debug\p2_38.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\p2_38\obj\Debug\p2_38.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\p2_38\obj\Debug\p2_38.csprojAssemblyReference.cache

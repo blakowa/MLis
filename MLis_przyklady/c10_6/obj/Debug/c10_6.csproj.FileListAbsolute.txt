@@ -1,0 +1,6 @@
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\c10_6\bin\Debug\c10_6.exe.config
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\c10_6\bin\Debug\c10_6.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\c10_6\bin\Debug\c10_6.pdb
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\c10_6\obj\Debug\c10_6.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\c10_6\obj\Debug\c10_6.exe
+C:\Users\kowal\source\repos\MLis\MLis_przyklady\c10_6\obj\Debug\c10_6.pdb
